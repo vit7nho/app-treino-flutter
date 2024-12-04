@@ -1,3 +1,6 @@
+FitTrack - Aplicativo de acompanhamento de treino 🚀
+
+
 Diferencial do Aplicativo
 
 Este aplicativo é projetado para revolucionar a interação entre aluno e instrutor no mundo digital. Diferente de apps como Trainerize ou TrueCoach, que oferecem um acompanhamento mais passivo, este projeto coloca a interação contínua e direta como elemento central. Ele permite que o instrutor vá além de simplesmente criar e ajustar treinos, possibilitando um acompanhamento em tempo real do desempenho do aluno e fornecendo feedback imediato sobre a execução de exercícios, carga, dieta e evolução.
